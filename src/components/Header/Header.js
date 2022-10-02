@@ -6,6 +6,7 @@ const Header = () => {
         <div className='d-flex justify-content-center'>
             <Link className='px-3 ' to='/'>Home</Link>
            <Link to='/about'>About</Link>
+           <Link to='/exam'>Exam</Link>
             
         </div>
     );
