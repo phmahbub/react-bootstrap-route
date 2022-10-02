@@ -1,14 +1,14 @@
 import React from 'react';
 import Header from '../Header/Header';
+import Home from '../Home/Home';
 
-const Home = () => {
+const Exam = () => {
     return (
         <div>
             
-          
-          <h1> Man is mortal</h1>
+            <h1>Exam Is Mortal Very Very Mortal</h1>
         </div>
     );
 };
 
-export default Home;
+export default Exam;

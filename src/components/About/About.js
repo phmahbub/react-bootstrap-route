@@ -4,9 +4,9 @@ import Header from '../Header/Header';
 const About = () => {
     return (
         <div>
-             
-           <Header></Header>
-           About is more mortal
+             <h1>
+             About is more mortal</h1>
+       
         </div>
     );
 };
